@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%E2%9C%94-blue)](https://linkedin.com/in/samuel-ovadya-942594250/)
 [![Email](https://img.shields.io/badge/Email-%E2%9C%94-red)](mailto:portfolio.samuel@ovadya.com)
 
-[![A-dark-futuristic-banner-for-a-cyber-oriented-Red-Team-Git-Hub-profile.webp](https://i.postimg.cc/LXTLG1Cn/DALL-E-2024-09-13-01-45-15-A-dark-futuristic-banner-for-a-cyber-oriented-Red-Team-Git-Hub-profile.webp)](https://postimg.cc/6288vyNX) <!-- Replace with an actual image if you have one -->
+[![Profile Banner](https://i.postimg.cc/LXTLG1Cn/DALL-E-2024-09-13-01-45-15-A-dark-futuristic-banner-for-a-cyber-oriented-Red-Team-Git-Hub-profile.webp)](https://postimg.cc/6288vyNX)
 
 ## 🌟 Objective
 
@@ -33,8 +33,22 @@ At 19, I am a self-taught and innovative developer with a strong passion for lea
   ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white) 
 
 - **Tools:** 
-  ![IDAPRO](https://img.shields.io/badge/-IDA%20Pro-5C2D91?logo=ida&logoColor=white) 
+  ![x96dbg](https://img.shields.io/badge/-x96dbg-FFD700?logo=debugging&logoColor=black) 
+  ![IDA Pro](https://img.shields.io/badge/-IDA%20Pro-5C2D91?logo=ida&logoColor=white) 
+  ![CFF Explorer](https://img.shields.io/badge/-CFF%20Explorer-8B4513?logo=security&logoColor=white) 
+  ![HxD](https://img.shields.io/badge/-HxD-8A2BE2?logo=security&logoColor=white) 
+  ![DNSpy](https://img.shields.io/badge/-DNSpy-6A5ACD?logo=security&logoColor=white) 
   ![Scapy](https://img.shields.io/badge/-Scapy-2C6AA4?logo=python&logoColor=white) 
+  ![Wireshark](https://img.shields.io/badge/-Wireshark-1E9C74?logo=wireshark&logoColor=white) 
+  ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-6D8CFE?logo=burpsuite&logoColor=white) 
+  ![Metasploit](https://img.shields.io/badge/-Metasploit-FF5A5F?logo=metasploit&logoColor=white) 
+  ![Parrot OS](https://img.shields.io/badge/-Parrot%20OS-00BFFF?logo=linux&logoColor=white) 
+  ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=linux&logoColor=white) 
+
+- **Operating Systems:** 
+  ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) 
+  ![Windows](https://img.shields.io/badge/-Windows-0078D4?logo=windows&logoColor=white) 
+  ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white) 
 
 ## 🏆 Experience
 
@@ -55,7 +69,7 @@ At 19, I am a self-taught and innovative developer with a strong passion for lea
 - **Technologies:** Proxmox, Docker, Nginx, SDN, Fail2ban
 
 ### Penetration Testing (2024)
-- Conducted penetration tests on 41 machines and wrote comprehensive reports.
+- Conducted penetration tests on 41 machines and wrote comprehensive reports using tools like Parrot OS.
 - **Environments:** Linux, Windows, Active Directory, Web Applications, Mobile Applications, AWS
 
 ### Portfolio Generator (2023)
@@ -125,4 +139,3 @@ At 19, I am a self-taught and innovative developer with a strong passion for lea
 ---
 
 Feel free to connect with me via [LinkedIn](https://linkedin.com/in/samuel-ovadya-942594250/) or check out my [portfolio](https://shmuel.ovh) for more information!
-
