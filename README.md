@@ -50,10 +50,17 @@ At 19, I am a self-taught and innovative developer with a strong passion for lea
   ![Windows](https://img.shields.io/badge/-Windows-0078D4?logo=windows&logoColor=white) 
   ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white) 
 
+- **Networking & IT:** 
+  ![Networking](https://img.shields.io/badge/-Networking-1E90FF?logo=networking&logoColor=white) 
+  ![Home Lab](https://img.shields.io/badge/-Home%20Lab-32CD32?logo=home&logoColor=white) 
+  ![Malware Removal](https://img.shields.io/badge/-Malware%20Removal-DC143C?logo=antivirus&logoColor=white) 
+  ![VirtualBox](https://img.shields.io/badge/-VirtualBox-0E3A88?logo=virtualbox&logoColor=white) 
+  ![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white) 
+
 ## 🏆 Experience
 
 ### CI/CD (2024)
-- Deployed a custom CI/CD environment for a project using a custom script with GitHub Webhooks.
+- Deployed a custom CI/CD environment using GitHub Webhooks and a custom PHP script for automated deployments.
 - **Technologies:** AWS EC2, GitHub, PHP
 
 ### Cloud LLM API (2024)
@@ -65,37 +72,41 @@ At 19, I am a self-taught and innovative developer with a strong passion for lea
 - **Technologies:** Stream encryption, .htaccess, PHP, MySQL
 
 ### Home Lab (2024)
-- Set up a secure Home Lab environment with Proxmox Server, Reverse Proxy (nginx), Docker, SDN, and ZTNA (Tailscale/Headscale).
-- **Technologies:** Proxmox, Docker, Nginx, SDN, Fail2ban
+- Designed and implemented a comprehensive Home Lab environment incorporating:
+  - **Virtualization:** Proxmox Server, VirtualBox, VMware
+  - **Networking:** SDN, VLANs, Reverse Proxy (nginx), Docker
+  - **Security:** Fail2ban, ZTNA (Tailscale/Headscale)
+- Configured network settings and managed various network topologies and security protocols.
+- **Technologies:** Proxmox, Docker, Nginx, SDN, VLAN, Fail2ban
 
 ### Penetration Testing (2024)
-- Conducted penetration tests on 41 machines and wrote comprehensive reports using tools like Parrot OS.
+- Conducted penetration tests on 41 machines and wrote comprehensive reports. Actively engage with platforms such as Hack The Box (HTB) and VulnHub.
 - **Environments:** Linux, Windows, Active Directory, Web Applications, Mobile Applications, AWS
+- **Tools:** Parrot OS, Kali Linux
 
 ### Portfolio Generator (2023)
-- Created a portfolio generator using JSON data.
+- Developed a tool to dynamically generate and manage my portfolio using JSON data.
 - **SEO** optimized for search visibility.
 
 ### Reverse Engineering JCT Course (2023)
-- Completed with a perfect score in ASM (x86, x64, ARM) static/dynamic analysis and patching.
-- Converted EXE files to high-level languages and cracked Shabak riddles.
+- Achieved a perfect score in ASM (x86, x64, ARM) static/dynamic analysis and patching. Converted EXE files to high-level languages and cracked Shabak riddles.
 
 ### Python Security Projects (2023)
-- Developed various Python security tools including encrypted communication systems, keyloggers, and MITM attacks.
+- Developed various Python security tools, including encrypted communication systems, keyloggers, and MITM attacks.
 
 ### CPP Projects (2022-2023)
-- Developed various C++ projects, including those involving WinAPI and OOP concepts.
+- Created various C++ projects involving WinAPI and OOP concepts.
 
 ### On Command Website (2022)
 - Designed and developed a responsive single-page website with a payment interface.
 - **Technologies:** HTML, JS, CSS, Stripe API
 
 ### OpenWRT Router Transformation (2022)
-- Flashed OpenWRT on a TP-Link router and enhanced connectivity from 2Mbps to 30Mbps.
+- Flashed OpenWRT on a TP-Link router, enhancing connectivity from 2Mbps to 30Mbps.
 - **Technologies:** TP-Link, OpenWRT, Linux
 
 ### Speaking Tuner for Visually Impaired (2021)
-- Created a Python-based tuner for visually impaired users with audio feedback.
+- Developed a Python-based tuner for visually impaired users with audio feedback.
 - Versions for Windows and Raspberry Pi.
 
 ### Translated Othello/Reversi Game (2021)
@@ -103,7 +114,7 @@ At 19, I am a self-taught and innovative developer with a strong passion for lea
 - **Technologies:** HTML, JS, CSS, Python
 
 ### Real-Time Chat Website (2021)
-- Developed a real-time chat platform with user groups and profiles.
+- Built a real-time chat platform with user groups and profiles.
 - **Technologies:** HTML, JS, CSS, AJAX, PHP, SQL
 
 ## 🎓 Education
@@ -112,29 +123,26 @@ At 19, I am a self-taught and innovative developer with a strong passion for lea
 - Linux Penetration Testing & Privilege Escalation
 - Windows Penetration Testing & Privilege Escalation
 - Active Directory Penetration Testing
-- Web Application Dev, Penetration Testing
-- Mobile Apps (Android) Dev, Penetration Testing
+- Web Application Development & Penetration Testing
+- Mobile Apps (Android) Development & Penetration Testing
 - AWS Practitioner & Penetration Testing
 
 ### JCT BSc Student (2022 - 2024)
 - CPP
-- ASM/Reverse Engineering
+- ASM / Reverse Engineering
 - Digital Systems
 - Project Management
 
 ### French High-School Diploma (2021)
-- Focus: Mathematics, Physics, Chemistry, Biology
-
-## 🔗 Personal Projects
-
-- **[Portfolio Generator](#)**: A tool to dynamically generate and manage my portfolio.
-- **[Reverse Engineering Writeups](#)**: Detailed analyses of reverse engineering challenges and solutions.
+- Mathematics
+- Physics - Chemistry
+- Biology
 
 ## 💬 Interests
 
-- **Cybersecurity**: Passion for ethical hacking and security research.
-- **Technology**: Enthusiastic about emerging technologies and innovations.
-- **Military Aeronautics**: Keen interest in aviation and defense technologies.
+- **Cybersecurity:** Passion for ethical hacking and security research.
+- **Technology:** Enthusiastic about emerging technologies and innovations.
+- **Military Aeronautics:** Keen interest in aviation and defense technologies.
 
 ---
 
