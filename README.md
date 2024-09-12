@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%E2%9C%94-blue)](https://linkedin.com/in/samuel-ovadya-942594250/)
 [![Email](https://img.shields.io/badge/Email-%E2%9C%94-red)](mailto:portfolio.samuel@ovadya.com)
 
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Profile+Banner) <!-- Replace with an actual image if you have one -->
+[![A-dark-futuristic-banner-for-a-cyber-oriented-Red-Team-Git-Hub-profile.webp](https://i.postimg.cc/LXTLG1Cn/DALL-E-2024-09-13-01-45-15-A-dark-futuristic-banner-for-a-cyber-oriented-Red-Team-Git-Hub-profile.webp)](https://postimg.cc/6288vyNX) <!-- Replace with an actual image if you have one -->
 
 ## 🌟 Objective
 
