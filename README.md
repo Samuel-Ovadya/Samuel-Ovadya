@@ -1,45 +1,66 @@
 # Samuel Ovadya
 
-[Portfolio](https://shmuel.ovh) | [LinkedIn](https://linkedin.com/in/samuel-ovadya-942594250/) | [Email](mailto:portfolio.samuel@ovadya.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%E2%9C%94-green)](https://shmuel.ovh) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%E2%9C%94-blue)](https://linkedin.com/in/samuel-ovadya-942594250/)
+[![Email](https://img.shields.io/badge/Email-%E2%9C%94-red)](mailto:portfolio.samuel@ovadya.com)
 
-## Objective
+![Profile Banner](https://via.placeholder.com/1200x300.png?text=Profile+Banner) <!-- Replace with an actual image if you have one -->
+
+## 🌟 Objective
 
 At 19, I am a self-taught and innovative developer with a strong passion for learning and creative problem-solving. I excel at quickly grasping new concepts and applying them to real-world projects. With a keen interest in technological innovation, cybersecurity, and military aeronautics, I am eager to contribute my skills to challenging projects and pursue opportunities in the cybersecurity field.
 
-## Skills
+## 🛠 Skills
 
-- **Programming Languages:** Python, C++, HTML5, CSS, JavaScript, PHP, SQL, Assembly (x86, x64, ARM)
-- **Cybersecurity:** Penetration Testing, Reverse Engineering, Encryption, Network Attacks, Vulnerability Assessment
-- **Technologies:** AWS, Docker, Git, Nginx, Proxmox, SDN, ZTNA (Tailscale/Headscale)
-- **Web Development:** JSON, AJAX, PHP, SEO
-- **Tools:** x96dbg, IDA, CFF Explorer, HxD, DNSpy, Scapy, WinAPI
-- **Operating Systems:** Linux (Debian-based), Windows, Android
+- **Programming Languages:** 
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
+  ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) 
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) 
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+  ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) 
+  ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sqlite&logoColor=white) 
+  ![Assembly](https://img.shields.io/badge/-Assembly-%23F7E01E?logo=assembly&logoColor=black) 
 
-## Experience
+- **Cybersecurity:** 
+  ![Penetration Testing](https://img.shields.io/badge/-Penetration%20Testing-FFD700?logo=security&logoColor=black) 
+  ![Reverse Engineering](https://img.shields.io/badge/-Reverse%20Engineering-8B4513?logo=security&logoColor=white) 
+
+- **Technologies:** 
+  ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white) 
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) 
+  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
+  ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white) 
+
+- **Tools:** 
+  ![IDAPRO](https://img.shields.io/badge/-IDA%20Pro-5C2D91?logo=ida&logoColor=white) 
+  ![Scapy](https://img.shields.io/badge/-Scapy-2C6AA4?logo=python&logoColor=white) 
+
+## 🏆 Experience
 
 ### CI/CD (2024)
 - Deployed a custom CI/CD environment for a project using a custom script with GitHub Webhooks.
-- Technologies: AWS EC2, GitHub, PHP
+- **Technologies:** AWS EC2, GitHub, PHP
 
 ### Cloud LLM API (2024)
 - Deployed Ollama Llama3 on GPU-optimized EC2 instances during a hackathon due to the unavailability of other LLM APIs.
-- Technologies: AWS EC2, Ollama, API
+- **Technologies:** AWS EC2, Ollama, API
 
 ### Streaming Platform (2024)
 - Developed a streaming platform with a focus on preventing unauthorized access to resources.
-- Technologies: Stream encryption, .htaccess, PHP, MySQL
+- **Technologies:** Stream encryption, .htaccess, PHP, MySQL
 
 ### Home Lab (2024)
 - Set up a secure Home Lab environment with Proxmox Server, Reverse Proxy (nginx), Docker, SDN, and ZTNA (Tailscale/Headscale).
-- Technologies: Proxmox, Docker, Nginx, SDN, Fail2ban
+- **Technologies:** Proxmox, Docker, Nginx, SDN, Fail2ban
 
 ### Penetration Testing (2024)
 - Conducted penetration tests on 41 machines and wrote comprehensive reports.
-- Environments: Linux, Windows, Active Directory, Web Applications, Mobile Applications, AWS
+- **Environments:** Linux, Windows, Active Directory, Web Applications, Mobile Applications, AWS
 
 ### Portfolio Generator (2023)
 - Created a portfolio generator using JSON data.
-- SEO optimized for search visibility.
+- **SEO** optimized for search visibility.
 
 ### Reverse Engineering JCT Course (2023)
 - Completed with a perfect score in ASM (x86, x64, ARM) static/dynamic analysis and patching.
@@ -53,11 +74,11 @@ At 19, I am a self-taught and innovative developer with a strong passion for lea
 
 ### On Command Website (2022)
 - Designed and developed a responsive single-page website with a payment interface.
-- Technologies: HTML, JS, CSS, Stripe API
+- **Technologies:** HTML, JS, CSS, Stripe API
 
 ### OpenWRT Router Transformation (2022)
 - Flashed OpenWRT on a TP-Link router and enhanced connectivity from 2Mbps to 30Mbps.
-- Technologies: TP-Link, OpenWRT, Linux
+- **Technologies:** TP-Link, OpenWRT, Linux
 
 ### Speaking Tuner for Visually Impaired (2021)
 - Created a Python-based tuner for visually impaired users with audio feedback.
@@ -65,29 +86,37 @@ At 19, I am a self-taught and innovative developer with a strong passion for lea
 
 ### Translated Othello/Reversi Game (2021)
 - Translated a Human vs Bot Othello game from Python to JavaScript.
-- Technologies: HTML, JS, CSS, Python
+- **Technologies:** HTML, JS, CSS, Python
 
 ### Real-Time Chat Website (2021)
 - Developed a real-time chat platform with user groups and profiles.
-- Technologies: HTML, JS, CSS, AJAX, PHP, SQL
+- **Technologies:** HTML, JS, CSS, AJAX, PHP, SQL
 
-## Education
+## 🎓 Education
 
 ### ITSAFE Professional Penetration Testing Courses & Certificates (2024)
-- Courses: Linux, Windows, Active Directory, Web Applications, Mobile Apps, AWS Penetration Testing
+- Linux Penetration Testing & Privilege Escalation
+- Windows Penetration Testing & Privilege Escalation
+- Active Directory Penetration Testing
+- Web Application Dev, Penetration Testing
+- Mobile Apps (Android) Dev, Penetration Testing
+- AWS Practitioner & Penetration Testing
 
 ### JCT BSc Student (2022 - 2024)
-- Courses: CPP, ASM/Reverse Engineering, Digital Systems, Project Management
+- CPP
+- ASM/Reverse Engineering
+- Digital Systems
+- Project Management
 
 ### French High-School Diploma (2021)
 - Focus: Mathematics, Physics, Chemistry, Biology
 
-## Personal Projects
+## 🔗 Personal Projects
 
 - **[Portfolio Generator](#)**: A tool to dynamically generate and manage my portfolio.
 - **[Reverse Engineering Writeups](#)**: Detailed analyses of reverse engineering challenges and solutions.
 
-## Interests
+## 💬 Interests
 
 - **Cybersecurity**: Passion for ethical hacking and security research.
 - **Technology**: Enthusiastic about emerging technologies and innovations.
@@ -97,8 +126,3 @@ At 19, I am a self-taught and innovative developer with a strong passion for lea
 
 Feel free to connect with me via [LinkedIn](https://linkedin.com/in/samuel-ovadya-942594250/) or check out my [portfolio](https://shmuel.ovh) for more information!
 
-
-<!---
-Samuel-Ovadya/Samuel-Ovadya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
