@@ -11,16 +11,20 @@
 At 19, I am a self-taught and innovative developer with a strong passion for learning and creative problem-solving. I excel at quickly grasping new concepts and applying them to real-world projects. With a keen interest in technological innovation, cybersecurity, and military aeronautics, I am eager to contribute my skills to challenging projects and pursue opportunities in the cybersecurity field.
 
 ## 🛠 Skills
-
+  ![Mentoring](https://img.shields.io/badge/-Mentoring-6A5ACD?logo=mentoring&logoColor=white) 
 - **Programming Languages:** 
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
   ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) 
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
-  ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) 
+  ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+  ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
   ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sqlite&logoColor=white) 
-  ![Assembly](https://img.shields.io/badge/-Assembly-%23F7E01E?logo=assembly&logoColor=black) 
+  ![Assembly](https://img.shields.io/badge/-Assembly-%23F7E01E?logo=assembly&logoColor=black)
+
 
 - **Cybersecurity:** 
   ![Penetration Testing](https://img.shields.io/badge/-Penetration%20Testing-FFD700?logo=security&logoColor=black) 
@@ -28,25 +32,31 @@ At 19, I am a self-taught and innovative developer with a strong passion for lea
 
 - **Technologies:** 
   ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white) 
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) 
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+  ![Podman](https://img.shields.io/badge/-Podman-892CA0?logo=podman&logoColor=white) 
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
   ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white) 
-
+  ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?logo=proxmox&logoColor=white) 
+  ![Tailscale](https://img.shields.io/badge/-Tailscale-000000?logo=tailscale&logoColor=white)
+  
 - **Tools:** 
   ![x96dbg](https://img.shields.io/badge/-x96dbg-FFD700?logo=debugging&logoColor=black) 
   ![IDA Pro](https://img.shields.io/badge/-IDA%20Pro-5C2D91?logo=ida&logoColor=white) 
   ![CFF Explorer](https://img.shields.io/badge/-CFF%20Explorer-8B4513?logo=security&logoColor=white) 
   ![HxD](https://img.shields.io/badge/-HxD-8A2BE2?logo=security&logoColor=white) 
   ![DNSpy](https://img.shields.io/badge/-DNSpy-6A5ACD?logo=security&logoColor=white) 
-  ![Scapy](https://img.shields.io/badge/-Scapy-2C6AA4?logo=python&logoColor=white) 
+  ![Scapy](https://img.shields.io/badge/-Scapy-2C6AA4?logo=python&logoColor=white)
+  ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white) 
   ![Wireshark](https://img.shields.io/badge/-Wireshark-1E9C74?logo=wireshark&logoColor=white) 
   ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-6D8CFE?logo=burpsuite&logoColor=white) 
   ![Metasploit](https://img.shields.io/badge/-Metasploit-FF5A5F?logo=metasploit&logoColor=white) 
-  ![Parrot OS](https://img.shields.io/badge/-Parrot%20OS-00BFFF?logo=linux&logoColor=white) 
-  ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=linux&logoColor=white) 
 
 - **Operating Systems:** 
-  ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) 
+  ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+  ![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white)
+  ![Parrot OS](https://img.shields.io/badge/-Parrot%20OS-00BFFF?logo=linux&logoColor=white) 
+  ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=linux&logoColor=white)
+  ![OpenWrt](https://img.shields.io/badge/-OpenWrt-00B5E2?logo=openwrt&logoColor=white)
   ![Windows](https://img.shields.io/badge/-Windows-0078D4?logo=windows&logoColor=white) 
   ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white) 
 
@@ -55,7 +65,8 @@ At 19, I am a self-taught and innovative developer with a strong passion for lea
   ![Home Lab](https://img.shields.io/badge/-Home%20Lab-32CD32?logo=home&logoColor=white) 
   ![Malware Removal](https://img.shields.io/badge/-Malware%20Removal-DC143C?logo=antivirus&logoColor=white) 
   ![VirtualBox](https://img.shields.io/badge/-VirtualBox-0E3A88?logo=virtualbox&logoColor=white) 
-  ![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white) 
+  ![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white)
+  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white) 
 
 ## 🏆 Experience
 
