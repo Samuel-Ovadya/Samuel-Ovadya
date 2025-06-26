@@ -19,7 +19,7 @@ At 19, I am a self-taught and innovative developer with a strong passion for lea
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) 
-  ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/-Express.js-607078?logo=express&logoColor=white)
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
   ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
   ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sqlite&logoColor=white) 
@@ -38,7 +38,8 @@ At 19, I am a self-taught and innovative developer with a strong passion for lea
   ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white) 
   ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?logo=proxmox&logoColor=white) 
   ![Tailscale](https://img.shields.io/badge/-Tailscale-3BA0F1?logo=tailscale&logoColor=white)
-  ![Headscale](https://raw.githubusercontent.com/juanfont/headscale/main/docs/logo/headscale3-dots.svg)
+  ![Headscale](https://img.shields.io/badge/Headscale-%23000000.svg?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDI0IDI0Ij48Y2lyY2xlIGN4PSI2IiBjeT0iNiIgcj0iMiIgZmlsbD0iI2ZmZiIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iNiIgcj0iMiIgZmlsbD0iI2ZmZiIvPjxjaXJjbGUgY3g9IjE4IiBjeT0iNiIgcj0iMiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==&logoColor=white)
+
 
 
   
