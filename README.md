@@ -38,7 +38,7 @@ At 19, I am a self-taught and innovative developer with a strong passion for lea
   ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white) 
   ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?logo=proxmox&logoColor=white) 
   ![Tailscale](https://img.shields.io/badge/-Tailscale-3BA0F1?logo=tailscale&logoColor=white)
-  ![Headscale](https://img.shields.io/badge/Headscale-%23000000.svg?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDI0IDI0Ij48Y2lyY2xlIGN4PSI2IiBjeT0iNiIgcj0iMiIgZmlsbD0iI2ZmZiIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iNiIgcj0iMiIgZmlsbD0iI2ZmZiIvPjxjaXJjbGUgY3g9IjE4IiBjeT0iNiIgcj0iMiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==&logoColor=white)
+  ![Headscale](https://img.shields.io/badge/Headscale-%23607078.svg?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDI0IDI0Ij48Y2lyY2xlIGN4PSI2IiBjeT0iNiIgcj0iMiIgZmlsbD0iI2ZmZiIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iNiIgcj0iMiIgZmlsbD0iI2ZmZiIvPjxjaXJjbGUgY3g9IjE4IiBjeT0iNiIgcj0iMiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==&logoColor=white)
 
 
 
