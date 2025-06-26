@@ -38,6 +38,8 @@ At 19, I am a self-taught and innovative developer with a strong passion for lea
   ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white) 
   ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?logo=proxmox&logoColor=white) 
   ![Tailscale](https://img.shields.io/badge/-Tailscale-000000?logo=tailscale&logoColor=white)
+  ![Headscale](https://img.shields.io/badge/-Headscale-000000?logo=headscale&logoColor=white)
+
   
 - **Tools:** 
   ![x96dbg](https://img.shields.io/badge/-x96dbg-FFD700?logo=debugging&logoColor=black) 
