@@ -37,8 +37,9 @@ At 19, I am a self-taught and innovative developer with a strong passion for lea
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
   ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white) 
   ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?logo=proxmox&logoColor=white) 
-  ![Tailscale](https://img.shields.io/badge/-Tailscale-000000?logo=tailscale&logoColor=white)
-  ![Headscale](https://img.shields.io/badge/-Headscale-3BA0F1?logo=tailscale&logoColor=white)
+  ![Tailscale](https://img.shields.io/badge/-Tailscale-3BA0F1?logo=tailscale&logoColor=white)
+  ![Headscale](https://raw.githubusercontent.com/juanfont/headscale/main/docs/logo/headscale3-dots.svg)
+
 
   
 - **Tools:** 
